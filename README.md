@@ -3,9 +3,9 @@
 
 - 🔭 Autodidacta y alumno
 
-- 🌱 Actualmente me encuentro estudiando **stack MERN **
+- 🌱 Actualmente me encuentro en busca de **empleo **
 
-- 📄 [Linkedin](https://www.linkedin.com/in/juan-agustin-heredia-29a1731b4/)
+- 📄 [LinkedIn](https://www.linkedin.com/in/juan-agustin-heredia-29a1731b4/)
 
 - 📫 Contactame **hjuan7217@gmail.com**
 
