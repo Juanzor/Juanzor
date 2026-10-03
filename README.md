@@ -1,9 +1,5 @@
 <h1 align="center"> Hola!👋 Soy Juan Heredia</h1>
-<h3 align="center">Desarrollador Fullstack</h3>
-
-- 🔭 Autodidacta y alumno
-
-- 🌱 Actualmente me encuentro en busca de empleo
+<h3 align="center">Desarrollador Backend</h3>
 
 - 📄 [LinkedIn](https://www.linkedin.com/in/juan-agustin-heredia-29a1731b4/)
 
